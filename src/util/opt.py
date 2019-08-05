@@ -17,7 +17,7 @@ class Options:
         self.equi = True
 
         # Training Param #
-        self.train_path = '/home/juliussurya/work/cat2dog/train_b.txt'
+        self.train_path = '/home/juliussurya/work/360dataset/pano_data_train'
         self.train_batch = 1
         self.train_shuffle = True
         self.train_len = 39730
