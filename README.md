@@ -1,5 +1,6 @@
 # 360_pano
-360 Panorama synthesis with hierarchical network
+360 Panorama synthesis with hierarchical network. \
+[Paper](https://arxiv.org/abs/1904.03326) submission in progress.
 
 ### Introduction
 Relative FOV estimation and high resolution 360 panorama synthesis based on generative hierarchical network. \
